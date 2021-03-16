@@ -22,4 +22,4 @@ jobs:
           OASJsonFilePath: "petstore.json"
           APIDefinitionFilePath: "api_template.yaml"
           APIVersion: "1.0.0"
-          PostmanCollectionTestFile: "sample_store.postman_collection.json"
+          #PostmanCollectionTestFile: "sample_store.postman_collection.json"
